@@ -1,0 +1,84 @@
+body
+{
+    background-image: url(images/6806.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fld
+{
+    margin-top: 60px;
+    height:350px;
+    width: 200px;
+    border-width:10px;
+    border-color:honeydew;
+    border-style:groove;
+    border-radius:10px; 
+}
+legend
+{
+    color:white;
+    font-size:45px;
+    font-family:"Lucidia Console", "Courier new", monospace;
+    font-weight:bold;
+}
+.content
+{
+    border-radius: 3px;
+ 
+}
+label
+{
+    font-size: 20px;
+    color:floralwhite;
+}
+a
+{
+    font-size: 5mm;
+    text-decoration: none;
+    color:darkblue;
+
+}
+button
+{
+width:105px;
+height:25px;
+background-color:darkcyan;
+border:none;
+border-radius:24px 10px;
+font-size:15;
+margin-top:10px;
+margin-right:10px ;
+margin-left: 10px;
+font-family:cursive;
+color:white;
+transition-duration:0.4s;
+}
+.button1{
+width:80px;
+height:20;
+color:black;
+background-color:cadetblue;
+border:none;
+border-radius:10px;
+transition-duration:0.4s;
+}
+.button:hover
+{
+background-color:darkslategrey;
+border:none;
+box-shadow:4px 4px 4px darkslategrey;
+color:white;
+}
+.j
+{
+  font-size:22px; 
+}
+.sign
+{
+    transition-duration:0.4s;
+}
+.sign:hover
+{
+    font-size:22px;
+    color:white;
+} 

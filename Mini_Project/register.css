@@ -1,0 +1,100 @@
+body
+{
+ background-color:lightgrey;
+ background-image: url(images/2932634.jpg);
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ font-size:10;
+ background-size:100%;
+ margin-bottom: 20px;
+}
+.button1{
+ border-radius:10px;
+ transition-duration: 0.4s;
+ border:none;
+ border-width:1px;
+ margin-left: 70;
+ margin-right: 70;
+}
+.button1:hover{
+background-color:darkgray;
+color:black;
+box-shadow: 3px 3px 3px dimgrey; 
+}
+.button2{
+ border-radius:10px;
+ transition-duration: 0.4s;
+ border:none;
+ border-width:1px;
+ margin-left: 70;
+ margin-right: 70;
+}
+.button2:hover{
+  background-color:darkgray;
+  color:black;
+  box-shadow: 3px 3px 3px dimgrey; 
+}
+.button3{  
+  margin-left: 20;
+  margin-right: 20;
+  margin-bottom: 20;
+  transition-duration: 0.4s;
+width:100;
+height:30;
+border: none;
+color:white;
+font-size: 15px;
+background-color:transparent;
+border-radius:50px 24px
+}
+
+.button3:hover
+{
+  font-size: 17px;
+  color:white;
+}
+.b
+{
+ font-size:30px;
+ margin-left: 50;
+ margin-right: 50;
+ font-weight: bold;
+ color:ivory;
+}
+.c
+{
+ font-size:30px;
+ margin-left: 50;
+ margin-right: 50;
+ font-weight: bold;
+ color:ivory;
+}
+.j{ 
+  font-size:18px;
+  width: 200px;
+  height:20px;
+}
+.i
+{
+ font-size:18px;
+ width: 200px;
+ height:20px;
+}
+.font{
+font-family:algerian;
+font-size:50px;
+font-style:Bold;
+text-shadow: 3px 3px 3px whitesmoke;
+text-decoration:underline;
+}
+#myDIV{
+width:100%;
+height:7%;
+animation: mymove 5s;
+position:relative;
+animation-direction:normal;
+}
+@keyframes mymove{
+from{background-color:darkslategray;}
+to{background-color:lightgrey;}
+}

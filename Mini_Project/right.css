@@ -1,0 +1,35 @@
+button
+{
+ border-radius:15px 8px;
+ border:none; 
+ background-color:rgb(255, 255, 255);
+ border-color:white;
+ width:max-content;
+ height:max-content;
+}
+.button1{
+transition-duration: 0.4s;
+ border-color:white;
+ border:solid;
+ border-width:1px;
+}
+.button1:hover
+{
+    background-color:rgb(9, 94, 94);
+    color:white;
+	border:none;
+}
+.font
+{
+    font-family:"Brush script mt";
+    font-size: 50px;
+    font-style:Bold;
+	color:white;
+	text-shadow:4px 4px 4px black;
+}
+pre
+{
+    font-size: 20px;
+    font-family: cursive;
+	color:white;
+}

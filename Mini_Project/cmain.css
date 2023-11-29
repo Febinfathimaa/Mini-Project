@@ -1,0 +1,33 @@
+button
+{
+padding:10px;
+border-radius:10px;
+height:100;
+width:100;
+}
+.main
+{
+    text-align:center;
+}
+a
+{
+    font-size: 20;
+}
+.button1
+{
+    border-radius:10;
+height:100;
+width:100;
+}
+body
+
+{
+    background-attachment: fixed;
+    background-image: url(images/blue.jpg);
+    background-size: cover;
+    background-color: darkslategrey;
+}
+p{
+ font-family:ALGERIAN;
+ font-size:20px; 
+}

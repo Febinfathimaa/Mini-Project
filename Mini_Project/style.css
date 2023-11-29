@@ -1,0 +1,17 @@
+.form-div{
+    margin: 120px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-family: 'Lora', serif;
+}
+
+form p {
+    font-size:.89em;
+}
+
+
+.logout{
+    color:red;
+}

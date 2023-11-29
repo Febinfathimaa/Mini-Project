@@ -1,0 +1,83 @@
+legend
+{
+	font-size:30px;
+	font-family:Algerian;
+	color:white;
+}
+label
+{
+	font-size:25px;
+	color:white;
+	font-family:cursive;
+	
+}
+body
+{
+    background-attachment: fixed;
+    background-image: url(images/pexels.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.content
+{
+    font-size:20px; 
+	border-radius: 5px;
+	border:none;
+}
+.fld
+{
+	height:50%;
+	width:40%;
+}
+p
+{
+	color:White;
+	font-size: 20px;
+	font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-stretch: ultra-expanded;
+	text-shadow: 4px 4px 4px black;
+}
+.sign
+{
+
+  transition-duration:0.4s;
+  color: blue;
+  text-decoration: none;
+}
+.sign:hover
+{
+	font-size:30px;
+	color: Blue;
+}
+.button1
+{
+	background-color:transparent;
+	border:none;
+	width: max-content;
+	font-size:20px;
+	font-family:cursive;
+	color:white;
+	margin-left:20px;
+	margin-top:10px;
+	transition-duration:0.4s;
+}
+.button1:hover
+{
+	font-size:21px;
+	border-radius: 10px;
+	background-color:dimgrey;
+	color:white;
+}
+button
+{
+	border-radius: 5px;
+	border:none;
+	width:80px;
+	height:25px;
+	font-size:17px ;
+}
+.button:hover
+{
+	box-shadow: 4px 4px 4px dimgrey;
+	background-color: rgba(255, 250, 240, 0.726);
+}
